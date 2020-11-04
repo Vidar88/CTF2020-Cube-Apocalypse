@@ -2,7 +2,7 @@
 
 ![date](https://img.shields.io/badge/date-20.10.2020-brightgreen.svg)  
 ![solved in time of CTF Qualification](https://img.shields.io/badge/solved-in%20time%20of%20CTF%20%20Qualification-brightgreen.svg)  
-![warmup category](https://img.shields.io/badge/category-warmup-lightgrey.svg)
+![cryptography category](https://img.shields.io/badge/category-cryptography-lightgrey.svg)
 
 ## Description
 ![desc](desc.png)
