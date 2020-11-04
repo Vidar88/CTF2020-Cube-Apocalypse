@@ -19,7 +19,7 @@ cyber_t1ny4nd1ns3cur33ncrypt10n
 ## Detailed solution
 I solved this challenge an hour before the qualification ended. It was pretty close.
 
-After expecting the application with Ghidra and some debugging with x32dbg (included in [x64dbg](https://x64dbg.com/#start)) I could figure out, that the generated One Time Pads changed on the selection of the user.
+After inspecting the application with Ghidra and some debugging with x32dbg (included in [x64dbg](https://x64dbg.com/#start)) I could figure out, that the generated One Time Pads changed on the selection of the user.
 
 The generated OTPs were then used to generate a transmission key.
 
